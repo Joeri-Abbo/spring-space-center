@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class SpaceCenterApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(SpaceCenterApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(SpaceCenterApplication.class, args);
+    }
 }
